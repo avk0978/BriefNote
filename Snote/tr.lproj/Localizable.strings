@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  Snote
+
+  Created by Andrey Kolpakov on 08.12.2017.
+  Copyright © 2017 Andrey Kolpakov. All rights reserved.
+*/
+"My notes" = "Notlarım";
+"Unblock" = "Engellemeyi Kaldır";
+"Block" = "Blok";
+"Cancel" = "İptal";
+"Delete"= "Sil";
+"Send" = "Gönder";
+"Title of this note" = "Not başlığı";
+"Empty notes don't save" = "Boş notlar kaydedilmedi";
+"OK" = "Tamam";
+"Notes" = "Notlar";
+"Note" = "Not";
+"New note" = "Yeni not";

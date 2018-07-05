@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  Snote
+
+  Created by Andrey Kolpakov on 16.12.2017.
+  Copyright © 2017 Andrey Kolpakov. All rights reserved.
+*/
+
+shortcutTitleLabel = "Bir Not eklemek";
+"CFBundleDisplayName" = "SNotes";
+"NSHumanReadableCopyright" = "2017, Andrey Kolpakov, a.v.kolpakov@gmail.com, All rights reserved";

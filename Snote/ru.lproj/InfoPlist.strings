@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  Snote
+
+  Created by Andrey Kolpakov on 16.12.2017.
+  Copyright © 2017 Andrey Kolpakov. All rights reserved.
+*/
+
+shortcutTitleLabel = "Добавить заметку";
+"CFBundleDisplayName" = "SNotes";
+"NSHumanReadableCopyright" = "2017, Разработчик: Андрей Колпаков, a.v.kolpakov@gmail.com";

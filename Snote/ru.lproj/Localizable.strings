@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  Snote
+
+  Created by Andrey Kolpakov on 08.12.2017.
+  Copyright © 2017 Andrey Kolpakov. All rights reserved.
+*/
+"My notes" = "Мои заметки";
+"Unblock" = "Разблокировать";
+"Block" = "Блокировать";
+"Cancel" = "Отмена";
+"Delete"= "Удалить";
+"Send" = "Переслать";
+"Title of this note" = "Название заметки";
+"Empty notes don't save" = "Пустые заметки не сохраняются";
+"OK" = "Да";
+"Notes" = "Заметки";
+"Note" = "Заметка";
+"New note" = "Новая заметка";
